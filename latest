@@ -1633,4 +1633,4 @@ game.Players.PlayerAdded:Connect(function(Source)
 end)
 
 SendMessage("Compiling..")
-SendMessage("HOUR 5 IS UPON US")
+SendMessage("HOUR 5 IS UPON US!")
