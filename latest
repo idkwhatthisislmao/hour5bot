@@ -1086,7 +1086,7 @@ local Commands = {
             task.wait(0.1)
             SendMessage("Ideas - Gto_Guy (HOUR 5)")
             task.wait(0.1)
-            SendMessage("Powered by: ...Solara...")
+            SendMessage("Powered by: Wave and Bloxstrap")
 
 		end	
 	},
